@@ -13,7 +13,9 @@
   "author": "Alexander Rechsteiner",
   "license": "MIT",
   "dependencies": {
+    "ag-grid": "^18.1.1",
     "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
     "holderjs": "^2.9.4",
     "jquery": "^3.2.1",
     "popper.js": "^1.13.0"
