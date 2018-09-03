@@ -1,25 +1,27 @@
 
+@import 'base';
+
 $blue: #0099ff;
 $test: #006;
-$dark: #000;
+// $dark: #161c27;
+$success: #00ec17;
+$dark: #151c28;
+
 $primary: $blue;
+$secondary: #242d3d;
 $light: #eaeaea;
 $info : #fff;
-$font-size-base: 0.75rem;
-$table-cell-padding: 0.6rem;
-$table-cell-padding-sm: 0.1rem;
-$input-btn-padding-y: 0.3rem;
-$input-btn-padding-x: 0.6rem;
-$input-btn-focus-width: 0.1rem;
-$input-btn-padding-y-sm: 0.2rem;
-$border-radius: 0.2rem;
-$border-radius-lg: 0.2em;
-$border-radius-sm: 0.2rem;
-$navbar-nav-link-padding-x: 0.4rem;
-$nav-link-padding-y: 0.4rem;
-$nav-link-padding-x: 0.9rem;
-$grid-gutter-width: 10px;
 
-$card-spacer-x: .50rem;
-$card-spacer-y: .50rem;
-$card-border-radius: 0rem;
+$positive: #00ec17;
+$positive-2:rgba(53,192,57,.2);
+$positive-1:rgba(53,192,57,.1);
+
+$accent:#34aaef;
+$accent-2:rgba(52,170,239,.2);
+$accent-1:rgba(52,170,239,.1);
+$negative:#f44034;
+$negative-1:rgba(255,77,100,.1);
+$negative-2:rgba(244,64,52,.2);
+
+
+

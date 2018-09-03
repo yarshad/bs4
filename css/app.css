@@ -1,10 +1,12 @@
 
  
-body {
+
+ body {
   min-height: 50rem;
-  padding-top: 2.8rem;
-}
- 
+  padding-top: 3.0rem;
+} 
+
+.border-custom{ border: 1px solid #d2d9e50f}
 
 .border-top { border-top: 1px solid #e5e5e5; }
 .border-bottom { border-bottom: 1px solid #e5e5e5; }

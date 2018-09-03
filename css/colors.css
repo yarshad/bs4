@@ -1,0 +1,107 @@
+
+.main {
+    --background     : hsla(218, 26%, 19%, 1);
+    --background-3   : hsla(218, 26%, 19%, 0.4);
+    --background-2   : hsla(218, 26%, 19%, 0.2);
+    --background-1   : hsla(218, 26%, 19%, 0.1);
+  
+    --background-alt : hsla(218, 31%, 12%, 1);
+  
+    --primary        : hsla(218, 26%, 86%, 1);
+    --primary-3      : hsla(218, 26%, 86%, 0.5);
+    --primary-2      : hsla(218, 26%, 86%, 0.25);
+    --primary-1      : hsla(218, 26%, 86%, 0.06);
+  
+    --accent         : hsla(192, 90%, 70%, 1);
+    --accent-2       : hsla(192, 90%, 70%, 0.4);
+    --accent-1       : hsla(192, 90%, 70%, 0.2);
+  
+    --negative       : hsla(352, 100%, 65%, 1);
+    --negative-2     : hsla(352, 100%, 65%, 0.2);
+    --negative-1     : hsla(352, 100%, 65%, 0.1);
+  
+    --positive       : hsla(151, 100%, 45%, 1);
+    --positive-2     : hsla(151, 100%, 45%, 0.2);
+    --positive-1     : hsla(151, 100%, 45%, 0.1);
+    
+}
+
+.main1 {
+    --background     : hsla(0, 0%, 97%, 1);
+    --background-3   : hsla(0, 0%, 97%, 0.4);
+    --background-2   : hsla(0, 0%, 97%, 0.2);
+    --background-1   : hsla(0, 0%, 97%, 0.1);
+  
+    --background-alt : hsla(0, 0%, 100%, 1);
+  
+    --primary        : hsla(0, 0%, 0%, 0.8);
+    --primary-3      : hsla(0, 0%, 0%, 0.4);
+    --primary-2      : hsla(0, 0%, 0%, 0.15);
+    --primary-1      : hsla(0, 0%, 0%, 0.05);
+  
+    --accent         : hsla(202, 85%, 57%, 1);
+    --accent-2       : hsla(202, 85%, 57%, 0.2);
+    --accent-1       : hsla(202, 85%, 57%, 0.1);
+  
+    --negative       : hsla(4, 90%, 58%, 1);
+    --negative-2     : hsla(4, 90%, 58%, 0.2);
+    --negative-1     : hsla(4, 90%, 58%, 0.1);
+  
+    --positive       : hsla(122, 57%, 48%, 1);
+    --positive-2     : hsla(122, 57%, 48%, 0.2);
+    --positive-1     : hsla(122, 57%, 48%, 0.1);
+  }
+  
+
+  .main {
+    --background     : hsla(0, 0%, 97%, 1);
+    --background-3   : hsla(0, 0%, 97%, 0.4);
+    --background-2   : hsla(0, 0%, 97%, 0.2);
+    --background-1   : hsla(0, 0%, 97%, 0.1);
+  
+    --background-alt : hsla(0, 0%, 100%, 1);
+  
+    --primary        : hsla(0, 0%, 0%, 0.8);
+    --primary-3      : hsla(0, 0%, 0%, 0.4);
+    --primary-2      : hsla(0, 0%, 0%, 0.15);
+    --primary-1      : hsla(0, 0%, 0%, 0.05);
+  
+    --accent         : hsla(192, 90%, 70%, 1);
+    --accent-2       : hsla(192, 90%, 70%, 0.4);
+    --accent-1       : hsla(192, 90%, 70%, 0.2);
+  
+    --negative       : hsla(4, 90%, 58%, 1);
+    --negative-2     : hsla(4, 90%, 58%, 0.2);
+    --negative-1     : hsla(4, 90%, 58%, 0.1);
+  
+    --positive       : hsla(122, 57%, 48%, 1);
+    --positive-2     : hsla(122, 57%, 48%, 0.2);
+    --positive-1     : hsla(122, 57%, 48%, 0.1);
+  }
+
+  .main {
+    --background     : hsla(28, 0%, 12%, 1);
+    --background-3   : hsla(28, 0%, 12%, 0.4);
+    --background-2   : hsla(28, 0%, 12%, 0.2);
+    --background-1   : hsla(28, 0%, 12%, 0.1);
+  
+    --background-alt : hsla(28, 0%, 6%, 1);
+  
+    --primary        : hsla(0, 0%, 100%, 0.8);
+    --primary-3      : hsla(0, 0%, 100%, 0.4);
+    --primary-2      : hsla(0, 0%, 100%, 0.15);
+    --primary-1      : hsla(0, 0%, 100%, 0.05);
+  
+    --accent         : hsla(348, 100%, 55%, 1);
+    --accent-2       : hsla(348, 100%, 55%, 0.4);
+    --accent-1       : hsla(348, 100%, 55%, 0.2);
+  
+    --positive       : hsla(199, 100%, 50%, 1);
+    --positive-2     : hsla(199, 100%, 50%, 0.4);
+    --positive-1     : hsla(199, 100%, 50%, 0.2);
+  
+    --negative       : hsla(24, 91%, 55%, 1);
+    --negative-2     : hsla(24, 91%, 55%, 0.4);
+    --negative-1     : hsla(24, 91%, 55%, 0.16);
+  }
+  
